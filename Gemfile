@@ -21,7 +21,7 @@ end
 
 group :production do 
   gem "rails_12factor"
-  gem 'ps'
+  gem 'pg'
 end
 
 
